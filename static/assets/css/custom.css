@@ -1,11 +1,22 @@
-/* change size of buttons */
-.btn { font-size: 10px }
-/* remove rounding from cards, buttons and inputs */
-.card, .btn, .form-control { border-radius: 0; }
+/* Styling the button. change size of button and color */
+.btn { font-size: 20px;
+  color: #000080;
+  background-color: #ffffff;
+  border-color: #000080;
+  font-weight: bold;
+  letter-spacing: 0.05em;
+}
+.btn:hover {
+    background-color:#000080;
+    color: white;
+}
 
 /* changing color of jumbotron to green and white*/
-/*.jumbotron {
-    background: #2782a9;
-    color: rgba(255, 255, 255, 0.187);
-    text-align: center;  
-  }
+.jumbotron{
+    background-color: #F2F5FA;
+}
+
+/* changing color of striped table*/
+.table-striped tr:nth-child(odd){
+      background-color: #a5bdf5 !important; 
+}
