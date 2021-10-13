@@ -1,0 +1,11 @@
+/* change size of buttons */
+.btn { font-size: 10px }
+/* remove rounding from cards, buttons and inputs */
+.card, .btn, .form-control { border-radius: 0; }
+
+/* changing color of jumbotron to green and white*/
+/*.jumbotron {
+    background: #2782a9;
+    color: rgba(255, 255, 255, 0.187);
+    text-align: center;  
+  }
