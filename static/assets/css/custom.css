@@ -14,6 +14,7 @@
 /* changing color of jumbotron to green and white*/
 .jumbotron{
     background-color: #F2F5FA;
+    color: #000080;
 }
 
 /* changing color of striped table*/
