@@ -25,8 +25,8 @@ As it was mentioned before, we use mongodb for storing the extracted information
 The html file is customized by adding some styling to our app. Specifically, the colors of the `jumbotron header` and the button were changed from the original version.  In addition, the hemispheres images were reorganized so the four images fit the width of the webpage. This customizing was made by using a `css` file that helps us to overrule the original bootstrap template. The changes are in the file [custom.css](https://raw.githubusercontent.com/LeidyDoradoM/Mission_To_Mars_Challenge/main/static/assets/css/custom.css) and Figure 1 has images of the website before and after the styling.
 
 <img width="40%" src="https://raw.githubusercontent.com/LeidyDoradoM/Mission_To_Mars_Challenge/main/Images/MissionToMars_1.png"> <img width="41%" src="https://raw.githubusercontent.com/LeidyDoradoM/Mission_To_Mars_Challenge/main/Images/customMTM_1.png">
-<img width="40%" src="https://raw.githubusercontent.com/LeidyDoradoM/Mission_To_Mars_Challenge/main/Images/MissionToMars2.png">
-<img width="40%" src="https://raw.githubusercontent.com/LeidyDoradoM/Mission_To_Mars_Challenge/main/Images/customMTM_2.png">
+<img width="40%" src="https://raw.githubusercontent.com/LeidyDoradoM/Mission_To_Mars_Challenge/main/Images/MissionToMars_2.png">
+<img width="50%" src="https://raw.githubusercontent.com/LeidyDoradoM/Mission_To_Mars_Challenge/main/Images/customMTM_2.png">
 
 Figure 1. Original Website layout in the left vs. Customized version in the right.
 
