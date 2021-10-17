@@ -24,12 +24,12 @@ As it was mentioned before, we use mongodb for storing the scrapped information 
 
 The html file is customized by adding some styling to our web site. Specifically, the colors of the  and the button were changed from the original version.  In addition, the hemispheres images were reorganized so the four images fit the wide of the webpage. This customizing was made by using a `css` file that helps us to overrule the original bootstrap template. The changes are in file [custom.css](https://raw.githubusercontent.com/LeidyDoradoM/Mission_To_Mars_Challenge/main/static/assets/css/custom.css) and Table 1 has images of the website before and after the stylingcus.
 
-| Original WebSite | Customized Version |
-|-----|-------|
-| ![original](https://raw.githubusercontent.com/LeidyDoradoM/Mission_To_Mars_Challenge/main/Images/MissionToMars_1.png) | 
- ![custom](https://raw.githubusercontent.com/LeidyDoradoM/Mission_To_Mars_Challenge/main/Images/customMTM_1.png) |
-|![origin](https://raw.githubusercontent.com/LeidyDoradoM/Mission_To_Mars_Challenge/main/Images/MissionToMars2.png)|
-![custom2](https://raw.githubusercontent.com/LeidyDoradoM/Mission_To_Mars_Challenge/main/Images/customMTM_2.png)|
+| Original WebSite             | Customized Version        |
+|------------------------------|---------------------------|
+|<img width="50%" src="https://raw.githubusercontent.com/LeidyDoradoM/Mission_To_Mars_Challenge/main/Images/MissionToMars_1.png"> |
+ <img width="50%" src="https://raw.githubusercontent.com/LeidyDoradoM/Mission_To_Mars_Challenge/main/Images/customMTM_1.png">|
+|<img width="50%" src="https://raw.githubusercontent.com/LeidyDoradoM/Mission_To_Mars_Challenge/main/Images/MissionToMars2.png">|
+|<img width="50%" src="https://raw.githubusercontent.com/LeidyDoradoM/Mission_To_Mars_Challenge/main/Images/customMTM_2.png">|
 
 Figure 1. Original Website layout vs. Customized version
 
